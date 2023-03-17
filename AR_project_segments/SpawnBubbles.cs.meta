@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ce8b70b0b5aa05e4c8500e874ec5995c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MakeSoundClip: {instanceID: 0}
+  - bubbleBomb: {instanceID: 0}
+  - bubbleDia: {instanceID: 0}
+  - bubbleCoin: {instanceID: 0}
+  - bubbleCrystal: {instanceID: 0}
+  - tmp: {fileID: 6224386595100654839, guid: 8d02f1e57660a6f4aae4d823a1deed98, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
